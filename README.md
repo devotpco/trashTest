@@ -1,2 +1,2 @@
-# trashTest
-testing creating from local code
+# hello2
+Learning some other git features
